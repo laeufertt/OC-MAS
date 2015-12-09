@@ -1,3 +1,3 @@
-Spieler von 'Normale' Spiele sind alle stateful agent, weil jedes davon können eine Angriffplan modelieren und ausführen bzw. mit Mitspielen kommunizieren kann. Diese Aktionen fordert, dass die folgende Aktion von historischen Informationen basiert ist.
+Spieler von 'Normale' Spiele sind alle „stateful agent“———Per*, weil jedes davon können eine Angriffplan modelieren und ausführen bzw. mit der Mitspielen kommunizieren kann. Diese Aktionen fordert, dass die folgende Aktion von historischen Informationen basiert ist.
 
-Torwart ist ein reactive agent. Es soll nur für kommende Ball oder Spieler gegenes Teams reagieren, statt einen ganzen Plan entwerfen.
+Torwart ist ein „reactive agent“———Per. Er soll nur für kommende Ball oder Spieler gegenes Teams reagieren, einen ganzen Plan zu entwerfen.
