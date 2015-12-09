@@ -1,0 +1,54 @@
+Informationen der Umgebung
+|   Informationen über Spielefield
+|   |   Informationen über zwei Tore 
+|   |   |   Richitung von Tore: + / ) [ 
+|   |   |   Abstand zum Tor gegener Spieler: + / ）]
+|   |   |   angesehene Weite von Tor: + / ) ]
+|   |   Informationen über Umrandungen
+|   |   |   Winkeln der Umrandungen: + / ) ]
+|   |   |   Abstand zu denen: + / ) ]
+|   |   |   Typ von Umrandungen
+|   |   |   |   Begerenzung von Field: + / ) ]
+|   |   |   |   andere Umrandung: - \ ) ]
+|   |   'Sicht' von Spielfeld
+|   |   |   Geometrische Informationen: - \ ) [
+|   Informationen über Ball
+|   |   Dynamische
+|   |   |   Standort: + / ) ]
+|   |   |   Geschwindigkeit: + / ) ]
+|   |   |   Beschleunigung: + / ) ]
+|   |   Statische
+|   |   |   Wirkungen, die 'ich' für den Ball verursachen kann(vergleich mit dem Begriff 'Masse')
+|   Informationen über Spieler
+|   |   Spieler unseres Teams
+|   |   |   'Normale' Spiele
+|   |   |   |   Standort: + / ) ]
+|   |   |   |   Geschwindigkeit: + / ) ]
+|   |   |   |   Beschleunigung: + / ) ]
+|   |   |   |   Körperbewegungsfreiheit: + / ) [
+|   |   |   |   Blickrichtung: - \ ) [
+|   |   |   Torwart
+|   |   |   |   Standort: + / ) ]
+|   |   |   |   Geschwindigkeit: + / ) ]
+|   |   |   |   Beschleunigung: + / ) ]
+|   |   |   |   Körperbewegungsfreiheit: + / ) [
+|   |   |   |   Blickrichtung: - \ ) [
+|   |   |   |   Abstand zum Tor unseres Teams: + / ) ]
+|   |   Spieler gegenes Teams
+|   |   |   'Normale' Spiele
+|   |   |   |   Standort: + / ) ]
+|   |   |   |   Geschwindigkeit: + / ) ]
+|   |   |   |   Beschleunigung: + / ) ]
+|   |   |   |   Körperbewegungsfreiheit: + / ) [
+|   |   |   |   Blickrichtung: - \ ) [
+|   |   |   Torwart
+|   |   |   |   Standort: + / ) ]
+|   |   |   |   Geschwindigkeit: + / ) ]
+|   |   |   |   Beschleunigung: + / ) ]
+|   |   |   |   Körperbewegungsfreiheit: + / ) [
+|   |   |   |   Blickrichtung: - \ ) [
+|   |   |   |   Abstand zum Tor unseres Teams: + / ) ]
+
+accessible: + inaccessible:-deterministic:/ non-deterministic:\  
+static: ( dynamic:)Discrete:[ continous:]
+
